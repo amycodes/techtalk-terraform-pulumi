@@ -1,3 +1,5 @@
 .vscode
 pulumi/__pycache__
 pom.xml
+.terraform*
+terraform.tfstate*
